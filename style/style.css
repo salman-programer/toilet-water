@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:  hsl(30, 38%, 92%);
+}
+
+.koly{
+    display: flex;
+    margin-top: 18px;
+}
+img{
+    width: 310px;
+    height: 450px;
+    border-radius: 0.5%;
+ 
+ margin-right:0;
+    margin: 0;
+}
+p, h2,h1, h4{
+    margin-left: 14px;
+}
+s{
+    margin-top: 50px;
+    margin-left: 147px;
+}
+.matn{
+     width: 300px;
+    height: 440px;
+    background-color: white;
+    padding-top: 10px;
+    bottom: 50px;
+    margin-right: 0;
+    flex-direction:column;
+}
+
+button{
+    width: 200px;
+    height: 33px;
+    margin-left: 35px;
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 5%;    
+
+}
+h1{
+    color: hsl(158, 36%, 37%);
+}
+.koly{
+    margin-left: 150px;
+    width: 800px;
+}
